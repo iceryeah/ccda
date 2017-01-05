@@ -1,0 +1,30 @@
+cataclysm
+data/*.template
+save/
+obj/
+debug.log
+logg.txt
+bindist/
+cataclysmdda-*
+objwin/
+cataclysm.exe
+version.h
+Cataclysm.exe
+CataclysmWin.depend
+CataclysmWin.layout
+
+# Visual Studio files
+*.suo
+*.user
+Cataclysm.sdf
+Release*/
+*.opensdf
+
+# Temporary and backup files
+*~
+\#*
+*.bak
+
+# System Files
+Thumbs.db
+.DS_Store
